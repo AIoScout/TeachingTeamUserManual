@@ -1,7 +1,7 @@
 # ISDN 2602 Teaching Team User Manual
 Made with [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/)
 
-Live at: https://isd-iot-eduation.github.io/TeachingTeamUserManual/
+Live at: https://aioscout.io/TeachingTeamUserManual/ 
 
 To modify site content:
 - Please create a new branch or use the `draft` branch to write content
